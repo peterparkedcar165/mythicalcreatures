@@ -4,17 +4,29 @@
 ### Creatures
 #### Naiad (Spirit / Wand / Healing Support) 
 Passive [Aquatic Grace]:  -Transparent, blue-ish, less transparent, and darker blue when touching water/rain (hidden)
+
                           -Take reduced Fire damage (hidden)
+                          
                           -Take increased Freeze damage (hidden)
+                          
                           -Slow healing in water or rain.
+                          
                           -Increased movement speed in rain, increased swimming speed.
-                          -Not moved by water
+                          
+                          -Not moved by water                      
+                          
                           -Take reduced damage in water
+                          
                           -Increase Mana Regeneration when touching water.
+                          
                           -Mine faster in water
+                          
                           -Breathe in water
+                          
                           -Seafood grants extra hunger
+                          
                           -*Abilities scale with Spell Power and Max Health
+                          
 
 Normal Attack [Water Blast]: -Shoot a ball of water that damages the first entity hit.
                              -Deal extra damage to enemies that are on fire / enemies that are fire based.
