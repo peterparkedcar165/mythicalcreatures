@@ -86,3 +86,5 @@ Ability 2: [Shadow Volley]: -Fire a spread of arrows in a cone, dealing damage t
                             -Casting knocks you backwards and grants you invisiblity for 1 second, 2 if dark passive is active.
 
 Ability 3 [Silencing Gust]: -Unleash a gust from your bow, damaging enemies once and silencing them. Preventing them from casting spells.
+
+Ability 4 [Nightfall]: -Shoot a dark projectile that marks an area, then rain dark projectiles from above into the area dealing large amounts of damage.
