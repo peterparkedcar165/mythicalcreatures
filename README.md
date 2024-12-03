@@ -69,3 +69,20 @@ Ability 4 [Forest Watcher]: -Target a log block to place a watcher inside it. Th
                             -Enemy units including player outside of team in a certain radius will be highlighted to all players of the same team as the user.
                             -While allies are within the radius, they take 5% reduced damage, and are granted 1 Absorption shield every 3 second, until 4.
                             -If the log of the attached Forest Watcher is broken, the Forest Watcher despawns.
+
+
+### Drow (Elven / Bow / Offensive Archer)
+Passive [Shadow Quiver]: -In low light areas (7 and under) OR night time, increase Arrow Velocity, otherwise, it is still increased but by half the amount.
+                         -In low light areas OR when it is night time footsteps SOUNDS are negated, sculk is not triggered. Movement Speed increased.
+                         -In low light areas, lightly transparent.
+                         -Arrow crafted yield twice the amount.
+                         -Arrow hit deals an extra instance of Dark damage, and have a chance to inflict Blight (dealing rapid large damage over time, but for a short duration).
+
+Ability 1 [Blinding Shot]: -Shoot a dark projectile that explodes into a dark smoke on impact, damaging and blinding enemies affected by it.
+                           -Blind lingers for 1 second after enemies leave the area.
+                           -Casting knocks you backwards.
+
+Ability 2: [Shadow Volley]: -Fire a spread of arrows in a cone, dealing damage to enemies hit.
+                            -Casting knocks you backwards and grants you invisiblity for 1 second, 2 if dark passive is active.
+
+Ability 3 [Silencing Gust]: -Unleash a gust from your bow, damaging enemies once and silencing them. Preventing them from casting spells.
