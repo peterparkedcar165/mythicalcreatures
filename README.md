@@ -170,4 +170,19 @@ Active 1 [Fire Pillars]: -Summon three pillars that spawn further and one after 
 Active 2 [Fiery Breath]: -Breathe out a gust of flames, creating a path of flames on the ground.
 
 Active 3 [Infernal Cataclsym]: -Explosion lol
-                     
+
+
+
+
+
+
+
+## Attributes:
+### Extra Ore Chance: Chance to spawn a second ore of the same type
+### Effect Chance: Chance to trigger secondary effects
+### Spell Power
+### Spell Haste
+### Mana Regeneration
+### Size
+### Flight Speed
+### Healing Power
