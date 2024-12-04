@@ -159,6 +159,8 @@ Passive [Hellborne]: -Increased Mana Regeneration, Spell Power, Movement Speed i
                      -Fire magic can affect fire-type mobs.
                      -Take increased water damage.
                      -Is considered a fire entity.
+                     -Can fly, 50% speed, 24 seconds.
+                     -50% health, size.
                      -Ember hits spawn Infernal Sparks around the Imp. For every 3 Infernal Sparks that the imp has, Ember deals increased damage to the main target, and damages nearby hostiles as well.
 
 Normal Attack [Ember]: -Shoot a small blob of fire, damaging the first entity hit with a chance to set them on fire.
