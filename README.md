@@ -171,7 +171,26 @@ Active 2 [Fiery Breath]: -Breathe out a gust of flames, creating a path of flame
 
 Active 3 [Infernal Cataclsym]: -Explosion lol
 
+### Vampiric Hunter (Creature / Crossbow / Self Sufficient Damage Dealer)
+Passive [Bloodthirst]: -Increased Lifesteal by 2.5%
+                       -Arrows hit inflict Bleed.
+                       -Slaying an entity drops blood beads, healing by 0.5% of their Max Health, also regenerates Hunger by 10% of their Max Health.
+                       -Considered Undead
+                       -Take damage in sunlight unless helmet is worn.
+                       -Strongly affected by Holy energy.
+                       -Increased Movement Speed at night, but lowered during daytime.
+                       -Low-health or bleeding enemies are visible in red through walls.
+                       -Increased Movement Speed when around low health enemies.
+                       -Damaging bleeding enemies regenerates 0.5 health.
+                       -Killing Sheep, Cow, Chicken, Pig gives 10 Hunger points.
+                       -Cannot eat veggies
+                       -Bleed deals damage over time. 1 per 2 seconds, damage increases based on missing health.
 
+Active 1 [Piercing Bolt]: -Shoot one arrow that pierces infinitely with very high velocity. 
+
+Active 2 [Night Daze]: -Release a cloud of smoke that renders you invisible for 3 seconds. You gain Movement Speed and Step Height, you reappear repositioned.
+
+Active 3 [Hemorrhage]: -Arrows hit begin stackig Bleeding effect, up to 5. Every shot deals an extra instance of blood dmg based on missing health.
 
 
 
