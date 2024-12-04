@@ -3,10 +3,10 @@
 
 ### Creatures
 #### Naiad (Spirit / Wand / Healing Support) 
-Passive [Aquatic Grace]:  -Transparent, blue-ish, less transparent, and darker blue when touching water/rain (hidden)\n
-                          -Take reduced Fire damage (hidden)\n
-                          -Take increased Freeze damage (hidden)\n
-                          -Slow healing in water or rain.\n
+Passive [Aquatic Grace]:  -Transparent, blue-ish, less transparent, and darker blue when touching water/rain (hidden)
+                          -Take reduced Fire damage (hidden)
+                          -Take increased Freeze damage (hidden)
+                          -Slow healing in water or rain.
                           -Increased movement speed in rain, increased swimming speed.
                           -Not moved by water                      
                           -Take reduced damage in water
@@ -104,16 +104,68 @@ Active 2 [Twilight Blessing]: -Bless teammates in the area, increasing Movement 
 Active 3 [Terrorize]: -Become a dark glittering figure allowing you to fly faster than usual. After 1.5 seconds (or after the sound finishes), reappear as the Fae, and apply a Terrorize effect on nearby enemies.
                       -Terrorize: Reduce Armor by 10%, Attack Damage by 15%, Spell Power by 15%. Renders vision very obscure.
 
-### Troll (Human-like / Double Axe / Forward Damage)
+### Troll (Creature / Double Axe / Forward Damage)
 Passive [Resilience]: -Increased Max Health by 100%, reduced Armor by 50%.
                       -Lifesteal: +5% - 10% based on Missing Health
                       -Attack Speed: +0.25 - 1.00 based on Missing Health
                       -+25% Tree breaking speed.
                       -Cannot wield shields
                       -Abilities only work while wielding double axe.
+                      -Axes crafted grant an extra armor pen buff
 
 Active 1 [Leap]: -Leap forward, covering a moderate distance. If collide with enemy, stop, stun, and deal damage. Then, reduce cooldown by 25%.
 
 Active 2 [Berserk]: -Increase Attack Damage and Attack Speed. Killing units refreshes the duration.
 
 Active 3 [Unyielding Fury]: -Prevent death. During this time, increase Armor Penetration. Near the end, grants Lifesteal.
+
+### Paladin (Human / Sword and Shield / Tank-Healer)
+Passive [Blessing Incarnate]: -Increased Armor, toughness, and knockback resistance.
+                       -Deal increased damage to Undead.
+                       -Nearby Undead are Weakened II, lowering their Attack Damage, Spell Power by 1 per level, and Arrow Damage by 0.1 per level.
+                       -Crafting Shield grants an extra armor buff
+                       -Crafting Swords grant an extra attack damage buff.
+
+Active 1 [Sworderang]: -Throw a spectral sword that acts as a boomerang, it returns and deals damage periodically to enemies caught in its range.
+                       -If it successfully returns, refund the cooldown in half. If not, it doesn't.
+
+Active 2 [Judgment]: -Rain down a bunch of spectral swords then explodes dealing damage to nearby units.
+
+Active 3 [Guardian Angel]: -Bless all players in the same team as you, granting Armor, toughness, and healing them based on your Armor.
+
+### Kobold (Creature / Pickaxe / Cave-dweller, support)
+Passive [Cave Dweller]: -Can toggle Night Vision with `.
+                        -Increased Attack Damage with Pickaxes by 2.
+                        -Mining Speed +15%
+                        -Can mine without pickaxe.
+                        -Pickaxe crafted grant extra Breaking Speed
+                        -+25% Extra Ore Chance
+                        -Mining stone-based blocks grant Haste up to Haste II.
+                        -Diamond Armor+ grant extra stats.
+                        -Diamond Tools+ and Weapons+ grant extra stats.
+                        -Does not take suffocation damage.
+
+Active 1 [Explosive Bear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are rooted then damaged by the explosion. Explosion is AoE and does not break blocks.
+                                -Trap disappears after 2 minutes.
+                                -Dead By Daylight looking like bear traps.
+
+Active 2 [Emergency Digging]: -In dire situation, you must quickly escape. Grant the ability to phase through dirt-like and stone-like blocks to seek temporary refuge.
+
+Active 3 [Shared Snack]: -Consume snacks that you packed for your adventure, increasing your teammates and your Attack Speed and Mining Speed by a margin.
+
+### Imp (Creature / Wand / Damage Dealer)
+Passive [Hellborne]: -Increased Mana Regeneration, Spell Power, Movement Speed in the Nether.
+                     -Take no fire damage.
+                     -Fire magic can affect fire-type mobs.
+                     -Take increased water damage.
+                     -Is considered a fire entity.
+                     -Ember hits spawn Infernal Sparks around the Imp. For every 3 Infernal Sparks that the imp has, Ember deals increased damage to the main target, and damages nearby hostiles as well.
+
+Normal Attack [Ember]: -Shoot a small blob of fire, damaging the first entity hit with a chance to set them on fire.
+
+Active 1 [Fire Pillars]: -Summon three pillars that spawn further and one after the other, dealing large damage with a chance of setting targets on fire.
+
+Active 2 [Fiery Breath]: -Breathe out a gust of flames, creating a path of flames on the ground.
+
+Active 3 [Infernal Cataclsym]: -Explosion lol
+                     
