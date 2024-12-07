@@ -134,14 +134,12 @@ Active 2 [Judgment]: -Rain down a bunch of spectral swords then explodes dealing
 Active 3 [Guardian Angel]: -Bless all players in the same team as you, granting Armor, toughness, and healing them based on your Armor.
 
 ### Kobold (Creature / Pickaxe / Cave-dweller, support)
-Passive [Cave Dweller]: -Can toggle Night Vision with `.
-                        -Increased Attack Damage with Pickaxes by 2.
+Passive [Cave Dweller]: -Increased Attack Damage with Pickaxes by 2.
                         -Mining Speed +15%
+                        -No mining exhaustion
                         -Can mine without pickaxe.
                         -Pickaxe crafted grant extra Breaking Speed
                         -+25% Extra Ore Chance
-                        -Diamond Armor+ grant extra stats.
-                        -Diamond Tools+ and Weapons+ grant extra stats.
                         -Does not take suffocation damage.
                         -Smaller and less health by 25%.
 
