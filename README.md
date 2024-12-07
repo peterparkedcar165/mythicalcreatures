@@ -140,10 +140,12 @@ Passive [Cave Dweller]: -Can toggle Night Vision with `.
                         -Can mine without pickaxe.
                         -Pickaxe crafted grant extra Breaking Speed
                         -+25% Extra Ore Chance
-                        -Mining stone-based blocks grant Haste up to Haste II.
                         -Diamond Armor+ grant extra stats.
                         -Diamond Tools+ and Weapons+ grant extra stats.
                         -Does not take suffocation damage.
+                        -Smaller and less health by 25%.
+
+[BONUS] : -Mining stone-based blocks grant Haste up to Haste II.
 
 Active 1 [Explosive Bear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are rooted then damaged by the explosion. Explosion is AoE and does not break blocks.
                                 -Trap disappears after 2 minutes.
