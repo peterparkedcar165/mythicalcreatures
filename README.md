@@ -144,9 +144,10 @@ Passive [Cave Dweller]: -Increased Attack Damage with Pickaxes by 3.
 
 [BONUS] : -Mining stone-based blocks grant Haste up to Haste II.
 
-Active 1 [Explosive Bear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are rooted then damaged by the explosion. Explosion is AoE and does not break blocks.
+Active 1 [EBear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are damaged and rooted.
                                 -Trap disappears after 2 minutes.
                                 -Dead By Daylight looking like bear traps.
+                                -Traps root for 12 seconds. Damage is dealt upon triggering the trap.
 
 Active 2 [Emergency Digging]: -In dire situation, you must quickly escape. Grant the ability to phase through dirt-like and stone-like blocks to seek temporary refuge.
 
