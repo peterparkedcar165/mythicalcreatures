@@ -139,12 +139,13 @@ Passive [Cave Dweller]: -Increased Attack Damage with Pickaxes by 3.
                         -No mining exhaustion
                         -Can mine without pickaxe.
                         -+25% Extra Ore Chance
+                        -+1 Extra Ore
                         -Does not take suffocation damage.
                         -Smaller and less health by 25%.
 
 [BONUS] : -Mining stone-based blocks grant Haste up to Haste II.
 
-Active 1 [EBear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are damaged and rooted.
+Active 1 [Bear Trap]: -Place down a trap that remains transparent and takes the appearance of the floor??. Enemies that step on the traps are damaged and rooted.
                                 -Trap disappears after 2 minutes.
                                 -Dead By Daylight looking like bear traps.
                                 -Traps root for 12 seconds. Damage is dealt upon triggering the trap.
