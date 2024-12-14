@@ -142,6 +142,8 @@ Passive [Cave Dweller]: -Increased Attack Damage with Pickaxes by 3.
                         -+1 Extra Ore
                         -Does not take suffocation damage.
                         -Smaller and less health by 25%.
+                        -When in cave air, increase Movement Speed and Mining Speed.
+                        -Blacksmith power
 
 [BONUS] : -Mining stone-based blocks grant Haste up to Haste II.
 
@@ -150,9 +152,9 @@ Active 1 [Bear Trap]: -Place down a trap that remains transparent and takes the 
                                 -Dead By Daylight looking like bear traps.
                                 -Traps root for 12 seconds. Damage is dealt upon triggering the trap.
 
-Active 2 [Emergency Digging]: -In dire situation, you must quickly escape. Grant the ability to phase through dirt-like and stone-like blocks to seek temporary refuge.
+Active 2 [Emergency Digging]: -In dire situation, you must quickly escape. Grant the ability to phase through sand-like, dirt-like and stone-like blocks to seek temporary refuge.
 
-Active 3 [Shared Snack]: -Consume snacks that you packed for your adventure, increasing your teammates and your Attack Speed and Mining Speed by a margin.
+Active 3 [Shared Snack]: -Consume snacks that you packed for your adventure, restoring hunger by 50% and saturation by 50%, increasing your teammates and your Attack Speed and Mining Speed by a margin.
 
 ### Imp (Creature / Wand / Damage Dealer)
 Passive [Hellborne]: -Increased Mana Regeneration, Spell Power, Movement Speed in the Nether.
